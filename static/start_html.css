@@ -1,0 +1,13 @@
+p {
+    font-size: 26px;
+    font-weight: bold;
+   }
+
+h2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.title {
+   background-color: grey; 
+}
